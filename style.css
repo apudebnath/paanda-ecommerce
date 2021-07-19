@@ -1,0 +1,21 @@
+.panda-bg {
+    background-color: #fceae8;
+}
+
+.watch-bg {
+    background-color: #ffa500;
+}
+
+.bag-bg {
+    background-color: #da70d6;
+}
+
+.shoes-bg {
+    background-color: #0000ff;
+}
+
+.panda-button {
+    background: linear-gradient(#ff4e95, #ff1a73);
+    padding: 8px 30px;
+    color: white;
+}
